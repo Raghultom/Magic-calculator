@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Magic-calculator/static/css/main.5b32928c.css",
+    "main.js": "/Magic-calculator/static/js/main.2fc91f4e.js",
+    "static/js/787.5f81c7f8.chunk.js": "/Magic-calculator/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/Magic-calculator/index.html",
+    "main.5b32928c.css.map": "/Magic-calculator/static/css/main.5b32928c.css.map",
+    "main.2fc91f4e.js.map": "/Magic-calculator/static/js/main.2fc91f4e.js.map",
+    "787.5f81c7f8.chunk.js.map": "/Magic-calculator/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b32928c.css",
+    "static/js/main.2fc91f4e.js"
+  ]
+}
